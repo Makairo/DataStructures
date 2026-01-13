@@ -1,4 +1,4 @@
-# 🧩 DataStructures
+# DataStructures
 
 A collection of **core data structure implementations in C#**, designed for practice, learning, and mastery of fundamental computational building blocks.
 
@@ -6,7 +6,7 @@ This repository contains several custom data structures implemented from scratch
 
 ---
 
-## 🧠 Purpose
+## Purpose
 
 This project was created to:
 
@@ -17,7 +17,7 @@ This project was created to:
 
 ---
 
-## 🚀 Included Implementations
+## Included Implementations
 
 ✔ Singly linked lists  
 ✔ Stacks  
